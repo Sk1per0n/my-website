@@ -64,6 +64,11 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
 .h1 {
     margin-top: 50px;
 }
@@ -93,5 +98,6 @@ td {
 table {
     display: flex;
     justify-content: center;
-    color: white
+    color: white;
+    margin-top: 20px;
 }
